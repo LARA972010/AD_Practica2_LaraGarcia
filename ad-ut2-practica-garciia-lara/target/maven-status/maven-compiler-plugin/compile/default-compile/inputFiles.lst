@@ -1,0 +1,16 @@
+C:\Users\Lara\IdeaProjects\ad-ut2-practica-garciia-lara\src\main\java\org\educa\Console.java
+C:\Users\Lara\IdeaProjects\ad-ut2-practica-garciia-lara\src\main\java\org\educa\dao\ClienteDAO.java
+C:\Users\Lara\IdeaProjects\ad-ut2-practica-garciia-lara\src\main\java\org\educa\entity\ClienteEntity.java
+C:\Users\Lara\IdeaProjects\ad-ut2-practica-garciia-lara\src\main\java\org\educa\entity\ColeccionEntity.java
+C:\Users\Lara\IdeaProjects\ad-ut2-practica-garciia-lara\src\main\java\org\educa\entity\DireccionEntity.java
+C:\Users\Lara\IdeaProjects\ad-ut2-practica-garciia-lara\src\main\java\org\educa\entity\EstadoPedidoEntity.java
+C:\Users\Lara\IdeaProjects\ad-ut2-practica-garciia-lara\src\main\java\org\educa\entity\EstadoProductoEntity.java
+C:\Users\Lara\IdeaProjects\ad-ut2-practica-garciia-lara\src\main\java\org\educa\entity\PedidoEntity.java
+C:\Users\Lara\IdeaProjects\ad-ut2-practica-garciia-lara\src\main\java\org\educa\entity\PedidoProductoEntity.java
+C:\Users\Lara\IdeaProjects\ad-ut2-practica-garciia-lara\src\main\java\org\educa\entity\ProductoEntity.java
+C:\Users\Lara\IdeaProjects\ad-ut2-practica-garciia-lara\src\main\java\org\educa\entity\TipoProductoEntity.java
+C:\Users\Lara\IdeaProjects\ad-ut2-practica-garciia-lara\src\main\java\org\educa\Main.java
+C:\Users\Lara\IdeaProjects\ad-ut2-practica-garciia-lara\src\main\java\org\educa\pool\ConnectionPool.java
+C:\Users\Lara\IdeaProjects\ad-ut2-practica-garciia-lara\src\main\java\org\educa\service\ClienteService.java
+C:\Users\Lara\IdeaProjects\ad-ut2-practica-garciia-lara\src\main\java\org\educa\service\PedidoService.java
+C:\Users\Lara\IdeaProjects\ad-ut2-practica-garciia-lara\src\main\java\org\educa\service\ProductoService.java
